@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.12.4",
     "@tensorflow-models/coco-ssd": "^2.1.0",
     "@tensorflow/tfjs": "^2.4.0",
     "@testing-library/jest-dom": "^4.2.4",
@@ -10,6 +11,7 @@
     "@testing-library/user-event": "^7.1.2",
     "dotenv": "^16.0.3",
     "fingerpose": "0.0.2",
+    "firebase": "^9.22.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-dotenv": "^0.1.3",
